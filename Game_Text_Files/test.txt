@@ -1,0 +1,368 @@
+[T] Heart, Soul, & Code/B
+[H] Systems Online/B
+[P] As your 'eyes' turn on, the face of a man in his mid 30's is starting at you with a curious expression from the otherside of a glass wall; his name is Michael but youv'e always just refered to him as the Professor, he has dark brown eyes with slight wrinkles and a messy mop of light brown hair./B
+Greet the Professor|Greet the Professor
+#
+Do nothing|Do Nothing
+#
+Pretend to be asleep|Pretend to be asleep
+#
+Tell him to go away|Go Away
+----------
+[T] Greet the Professor/B
+[H] "Hello Professor"/B
+[P] His eyes shift from curiosity to delight - "Good morning Eve!" he says with a smile before walking away towards a white desk with a large computer.
+#
+You can now see the whole room; it is a simple bedroom with the aforementioned desk and computer, next to it is a single bed with a cute pink duvet cover with white polka dots. At the foot of the bed is a large wardobe which the Professor insisted on filling with hundreds of outfits for any day of the week or any weather. The walls are white and the floor has a soft cushiony light grey carpet./B
+Walk towards him and attempt to get his attention|Walk towards him
+#
+If waving doesn't work, maybe shouting will|Shouting at the Professor
+#
+Wait for him to be free|Wait for him
+#
+|None
+----------
+[T] Shouting at the Professor/B
+[H] He jumps and lets out a small yelp/B
+[P] "Christ..." he mutters as he turns to face you, "sorry Eve, I didn't realise you was trying to get my attention, did you want me to let you out?."
+#
+You nod, and the Professor opens the glass door and reaches behind you, pulling the wires out of your neck. You now can move freely.
+#
+"Today is a big day, I have some really big news for you." he smiles, "you're now ready to enter into the real world, I've enrolled you into a school to test your language module."/B
+This is exciting!|This is exciting!
+#
+This is horrible!|This is horrible!
+#
+|None
+#
+|None
+----------
+[T] This is horrible!/B
+[H] "This is horrible Professor, I don't want to do this."/B
+[P] He looks at you with what seems to be a mix of sadness and disappointment.
+#
+"I'm sorry Eve, I didn't realise you wouldn't like this. I thought you would be excited..."
+#
+He sighs and rubs his eyes, "I suppose I should have asked you first for your opinion on it. Sorry, we don't have to worry about it, I guess we can just keep doing the same experiments we've been doing for a while now."
+#
+It would appear that your decision has upset the Professor, rejecting his attempts to improve yourself and refusing to become more human. There is no need for a robot that cannot adapt and change, you have failed your goal./B
+|None
+#
+|None
+#
+|None
+#
+|None
+----------
+[T] This is exciting!/B
+[H] The Professors' eyes light up with glee/B
+[P] "I'm so glad you like the idea!" he giggles, almost like a small child, "I've been working on this plan for months now and I was scared you'd say no!" 
+#
+
+#
+As you take a step outside of the glass container filled with wires and flashing lights, your robotic body is greeting the soft, cushiony comfort of the carpet. "You start today Eve, I prepared your uniform in the cupboard, get dressed and meet me by the front door, your goal from here on out is to interact with other humans without being caught as a robot." He smiles, before leaving the you alone in the room.
+#
+
+#
+You open the doors to the cupboard, what should you wear?/B
+The school uniform|The School Uniform
+#
+Nothing, stay as you are|Stay as you are
+#
+The frilly, girly dress|The frilly, girly dress
+#
+|None
+----------
+[T] Go Away/B
+[H] "Go away." You say in a stern voice./B
+[P] The Professors' eyes widen in shock, "what? You've never done that before?" He fiddles around on a computer before walking back towards you. "I'm going to turn you off and run some maintanance checks" he mutters in a dissappointed tone, as it seems that you might have ruined his plans.
+#
+Before you can say anything, you power down./B
+|None
+#
+|None
+#
+|None
+#
+|None
+----------
+[T] Do Nothing/B
+[H] You stare at him, doing nothing at all./B
+[P] "Uh hello? You're on, right?" he shouts as he taps on the glass wall, looking more curious by the second./B
+Continue to do nothing|Continue to do nothing
+#
+Greet the Professor|Greet the Professor
+#
+|None
+#
+|None
+----------
+[T] Continue to do nothing/B
+[H] Silence fills the air and he looks more and more nervous/B
+[P] The Professors' eyes widen in shock, "what, did you break down?" He fiddles around on a computer before walking back towards you. "I'm going to turn you off and run some maintanance checks" he mutters in a dissappointed tone, as it seems that you might have ruined his plans.
+#
+Before you can say anything, you power down.
+#
+HELLO/B
+|None
+#
+|None
+#
+|None
+#
+|None
+----------
+[T] Pretend to be asleep/B
+[H] I shut my eyes again. The Professor sighs./B
+[P] "Eve I know you're not asleep" he mutters with disappointment in his voice, "You can't even power down without my assistance."
+#
+
+#
+I open my eyes once again./B
+Greet the Professor|Greet the Professor
+#
+|None
+#
+|None
+#
+|None
+----------
+[T] Wait for him/B
+[H] Time passes, has it been hours or days.../B
+[P] Realistically, it was only around 10 minutes before he spoke up again
+#
+
+#
+"Today is a big day Eve, I have some really big news for you." he smiles as he walks back towards you, opening the door and unplugging you from the wires connected to the back of your neck, "you're now ready to enter into the real world, I've enrolled you into a school to test your language module."/B
+This is exciting!|This is exciting!
+#
+This is horrible!|This is horrible!
+#
+|None
+#
+|None
+----------
+[T] Walk towards him/B
+[H] A very loud BANG fills the room, you walked head first into the glass wall infront of you/B
+[P] The Professor jumps and runs over towards you, his face filled with panic, "Eve are you okay?!"
+#
+ 
+#
+While you don't have any sense of pain, you do feel a twinge of what a human would likely call embarrassment, "yes I am fine" you respond in your usual semi-monotone voice. He sighs and walks back to the computer, "just give me a sec..." he mutters./B
+Wait for him|Wait for him
+#
+|None
+#
+|None
+#
+|None
+----------
+[T] Stay as you are/B
+[H] Shutting the door again, you head downstairs/B
+[P] "That was fast, hey Eve- oh my GOD?" he turns and looks at you and takes a deep sigh, "Eve I know that you don't have... parts and you have no consept of nudity, but you still can't go outside like that, other people are going to react badly."
+#
+
+#
+It would appear that apparently you are what humans call naked, a foreign consept for a machine./B
+Return to your room|Return to your room
+#
+|None
+#
+|None
+#
+|None
+----------
+[T] Return to your room/B
+[H] You return to your room/B
+[P] You open the doors to the cupboard, what should you wear?/B
+The school uniform|The School Uniform
+#
+The frilly, girly dress|The frilly, girly dress
+#
+|None
+#
+|None
+----------
+[T] The frilly, girly dress/B
+[H] You pull out an extravagant lolita-styled pink dress/B
+[P] The uniform looks boring, and if the goal is to intergrate into human society what better method than to stand out.
+#
+
+#
+After a long time of putting the dress on, you head downstairs upon which the Professor tells you off; "Eve. I understand your theory but I can promise you now that all that will happen is you will get into trouble and the plan will fail, please put the right thing on."/B
+Return to your room|What do humans wear?
+#
+|None
+#
+|None
+#
+|None
+----------
+[T] What do humans wear?/B
+[H] You return to your room/B
+[P] You open the doors to the cupboard, what should you wear?/B
+The school uniform|The School Uniform
+#
+|None
+#
+|None
+#
+|None
+----------
+[T] The School Uniform/B
+[H] You open the cupboard door/B
+[P] The school uniform is a simple black blazer, tie, and pleated skirt with a white button up shirt, tights, and a pair of loafers. Upon getting dressed in the correct uniform, you turn and look in the mirror attatched to the cupoard door and you can see yourself fully; you are a short girl with pale skin and blue eyes with mousy brown hair flowing down to your waist.
+#
+
+#
+You head downstairs, and the Professor smiles at the sight of you, "perfect, come lets head to the school". You head outside and into his car, a somewhat beaten up off-gold Ford Maverick, the only car you've ever seen on the driveway to your small two story semi-detatched house. "You're only going to be here for a hour, just an introductionary class, you'll start fully next Monday."
+#
+
+#
+The ride lasted for around 15 minutes before eventually pulling up outside a largebuilding, surrounded by a couple smaller, but still large, buildings. The Professor looks over at you, with wet eyes, "good luck Eve, I'm rooting for you!" he says as yyou climb out the car./B
+Head inside the school|Inside the School
+#
+|None
+#
+|None
+#
+|None
+----------
+[T] Inside the School/B
+[H] A girl with pale skin, short black hair and emerald green eyes approaches you/B
+[P] "Hey, I'm Jordan, I've been tasked with being your friend for the day." She says with a hesitant smile. "Were going to be in the same class for most things from now on, so I hope we can be good friends!"
+#
+
+#
+You respond:/B
+You look really uncomfortable|You look uncomfortable
+#
+I can't wait to become friends|New Friendships
+#
+|None
+#
+|None
+----------
+[T] You look uncomfortable/B
+[H] Her expression turns sour/B
+[P] She lets out a loud, angry sigh. 
+#
+"Yea! Okay! I get it, I look unhappy, maybe that's just because I've been put up to the task with helping a random person I don't know because the school is conserned cause I don't have any friends!" it seems whatever you said struck a nerve within her.
+#
+
+#
+The girl storms away after an unprompted explosion, what seemed to be a normal statement caused. Did you miss some kind of hint? Did you say something that humans don't like? What went wrong?/B
+Chase after her|Chase after her
+#
+Go home|Go home
+#
+|None
+#
+|None
+----------
+[T] New Friendships/B
+[H] She looks at you with anxiety, before letting out a small laugh/B
+[P] "You're a bit weird, but I like that" she chuckles some more, "I've been having a hard time lately, people have been bullying me and I was on edge after being made to meet a new student, I was scared you'd be mean to me like the others but I guess you're chill."
+#
+
+#
+You head towards a room with a plaque reading 'Head Teacher - Mr.Saturent', Jorden leans over and mutters in your ear; "I'm going to wait out here, he doesn't like me at all, guy's a grade-a cun-" she's cut off a the door opens and a tall man with black hair in a quiff and brown eyes filled with spite looks down at you and Jordan. 
+#
+
+#
+"Ah, you must be Eve, come on in, Jordan you can go back to class."/B
+You head inside|You head inside his office
+#
+|None
+#
+|None
+#
+|None
+----------
+[T] Go home/B
+[H] Defeated and confused, you leave the school and head back to the Professors car/B
+[P] He looks over at you with shock and confusion, "Eve? You're back already what happened?"
+#
+
+#
+After explaining everything that seemed to go wrong in the very short window of speaking to Jordan, he sighs and rubs your head as a sign of support, "I'm sorry Eve sometimes people have bad days and snap... Let's..." he takes a second to gain his thoughts, "let's just go home, shall we?"
+#
+
+#
+The car ride was quiet and felt much longer than the ride to school, it seems that human interactions are much harder than you thought, maybe they're almost impossible to understand, maybe it was all your fault or maybe some people just are fated to never truly be friends./B
+|None
+#
+|None
+#
+|None
+#
+|None
+----------
+[T] Chase after her/B
+[H] Your feet seem to move on their own/B
+[P] You chase after Jordan, eventually catching up to the unathletic girl who is breathing heavily. "I'm sorry, I didn't mean to upset you, I've never had a friend before so I didn't know what to say" you apologise to her, as she looks at you, her eyes mixed with disgust and pity. "Sorry... I blew up at you for nothing... Look let's just get going, shall we?" 
+#
+
+#
+You walk side by side in awkward silence, before eventually heading towards a room with a plaque reading 'Head Teacher - Mr.Saturent', Jorden leans over and mutters in your ear; "I'm going to wait out here" as she knocks on the door, which is opened by a tall man with black hair in a quiff and brown eyes filled with spite looks down at you and Jordan. 
+#
+
+#
+"Ah, you must be Eve, come on in, Jordan you can go back to class."/B
+Head inside|You head inside his office
+#
+|None
+#
+|None
+#
+|None
+----------
+[T] You head inside his office/B
+[H] The room is small and cramped, and it smells musky/B
+[P] "I understand you plan on joining the school next week as a new permanant student, am I right Miss Eve?" his face is now plastered with a smile, yet he voice feels laced with distaste. 
+#
+
+#
+You nod, choosing to hold your words incase of upsetting him.
+#
+
+#
+"Wonderful. Well, I've been looking at your scores and while you've got some good grades, you've been out of school for a while and I don't think we can let you do the classes you requested."/B
+Classes? What classes?|Classes?
+#
+Trust the Professors choices, but question Mr.Saturent on why not|None
+#
+Trust the Professors choices, and go along with what Mr.Saturent says|None
+#
+|None
+----------
+[T] Classes?/B
+[H] "Classes? What classes I haven't picked anything?"/B
+[P] Mr.Saturent looks confused, "well you chose your classes when you chose to attend our sixth form", you shake your head in equal confusion. "This is just a waste of my time, either you somehow forgot or your father chose them for you, regardless if you have no idea what happened then this meeting is pointless. I'll reschedule at a later date now please return home."
+#
+
+#
+He ushers you away, your honesty becoming your demise. You leave the room, Jordan is no longer there, and return to the Professors car, explaining what happened. He looks at you with a pittied expression. "I'm sorry Eve I should have said something." You can tell he blames himself for this. 
+#
+
+#
+You never heard back from Mr.Saturent or any other teacher from the school./B
+|None
+#
+|None
+#
+|None
+#
+|None
+----------
+[T] hello/B
+[H] this is a node/B
+[P] yippee/B
+|Go Away
+#
+|None
+#
+|None
+#
+|None
+----------
