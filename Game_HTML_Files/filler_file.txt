@@ -1,0 +1,1 @@
+This file is here to allow the folder to be added onto Git, as it would not allow for an empty folder.
